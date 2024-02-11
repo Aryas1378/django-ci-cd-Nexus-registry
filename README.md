@@ -1,1 +1,1 @@
-# laravel-ci-cd-Nexus-registry
+# django-ci-cd-Nexus-registry
